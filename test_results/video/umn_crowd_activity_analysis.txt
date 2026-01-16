@@ -1,0 +1,22 @@
+Video Analysis Report
+======================================================================
+
+Video: umn_crowd_activity
+Resolution: 320x240
+FPS: 30.0
+Total Frames: 7739
+
+Overall Statistics
+----------------------------------------------------------------------
+Average Detections per Frame: 8.2
+Average Active Tracks: 11.6
+Average Crowd Density: 11.6 persons
+Maximum Crowd Density: 19 persons
+Total Anomalies Detected: 0
+
+Density Distribution
+----------------------------------------------------------------------
+LOW: 5975 frames (77.2%)
+MEDIUM: 1764 frames (22.8%)
+HIGH: 0 frames (0.0%)
+CRITICAL: 0 frames (0.0%)

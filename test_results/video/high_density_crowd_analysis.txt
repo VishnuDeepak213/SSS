@@ -1,0 +1,22 @@
+Video Analysis Report
+======================================================================
+
+Video: high_density_crowd
+Resolution: 1280x720
+FPS: 30.0
+Total Frames: 450
+
+Overall Statistics
+----------------------------------------------------------------------
+Average Detections per Frame: 0.0
+Average Active Tracks: 0.0
+Average Crowd Density: 0.0 persons
+Maximum Crowd Density: 0 persons
+Total Anomalies Detected: 0
+
+Density Distribution
+----------------------------------------------------------------------
+LOW: 450 frames (100.0%)
+MEDIUM: 0 frames (0.0%)
+HIGH: 0 frames (0.0%)
+CRITICAL: 0 frames (0.0%)
